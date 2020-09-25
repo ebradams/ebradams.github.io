@@ -1,0 +1,13 @@
+body {
+    Display: grid;
+    grid-template-columns: 1fr;
+    font-size: 15px;
+}
+
+div {
+    max-width: 300px;
+}
+
+img {
+    width: 300px;
+}
